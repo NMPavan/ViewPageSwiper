@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPageSwiper</string>
+
+    <string name="card_numbering">1/5</string>
+    <string name="heading">Heading</string>
+    <string name="interview">Inerviews Completed</string>
+</resources>
